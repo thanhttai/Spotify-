@@ -260,6 +260,9 @@ font-size: 1.6rem;
     align-items: center;
     justify-content: flex-end;
 }
+.section2__img-top div{
+    line-height: initial;
+}
 .button2{
     background-color: #a5ffef;
     color: #cb1582;
